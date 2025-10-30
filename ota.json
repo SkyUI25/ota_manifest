@@ -1,0 +1,24 @@
+[
+  {
+    "download": "https://example.com/downloads/update_v1000.zip",
+    "changelog": "<ul>\r\n  <li>- Update 1</li>\r\n  <li>- Update 2</li>\r\n</ul>",
+    "md5": "",
+    "title": "",
+    "isTestBuild": false,
+    "build": 3,
+    "previousBuild": 2,
+    "updateType": "zip",
+    "linkType": "direct"
+  },
+  {
+    "download": "8040c750-5206-4a14-8734-affc1c087e6d",
+    "changelog": "<ul>\r\n  <li>- Update 1</li>\r\n  <li>- Update 2</li>\r\n</ul>",
+    "md5": "",
+    "title": "",
+    "isTestBuild": false,
+    "build": 2,
+    "previousBuild": 1,
+    "updateType": "zip",
+    "linkType": "uploadnow"
+  }
+]
