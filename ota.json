@@ -1,7 +1,7 @@
 [
   {
     "download": "754b457f-5928-4f12-b780-92f697eb25e4",
-    "changelog": "<ul>\r\n  <li>- Update Kernel</li>\r\n  <li>- Added Some App</li>\r\n  <li>- Improve Stability</li>\r\n  <li>- Added Some Lib</li>\r\n</ul>",
+    "changelog": "<div style='font-family: sans-serif;'>\n  <h2 style='font-size: 22px; margin-bottom: 8px;'>SkyUI X7.0.1</h2>\n  <ul style='margin-top: 0;'>\n    <li>- Update Kernel</li>\n    <li>- Added Some App</li>\n    <li>- Improve Stability</li>\n    <li>- Added Some Lib</li>\n  </ul>\n</div>",
     "md5": "",
     "title": "",
     "isTestBuild": false,
@@ -11,6 +11,7 @@
     "linkType": "uploadnow"
   }
 ]
+
 
 
 
