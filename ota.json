@@ -1,7 +1,7 @@
 [
   {
     "download": "754b457f-5928-4f12-b780-92f697eb25e4",
-    "changelog": "<ul>\r\n  <li>1. Update Kernel\n2. Added Some App\n3. Improve Stabiliti\n4. Added Some Lib</li>\r\n</ul>",
+    "changelog": "<ul>\r\n  <li>Update Kernel</li>\r\n  <li>Added Some App</li>\r\n  <li>Improve Stability</li>\r\n  <li>Added Some Lib</li>\r\n</ul>",
     "md5": "",
     "title": "",
     "isTestBuild": false,
@@ -11,6 +11,7 @@
     "linkType": "uploadnow"
   }
 ]
+
 
 
 
