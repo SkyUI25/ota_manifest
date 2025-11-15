@@ -1,7 +1,7 @@
 [
   {
     "download": "3ff42df7-c949-4517-8ad4-390b960fde91",
-    "changelog": "<div>  <ul style='margin-top: 0;'>\n    <li>- Update Kernel</li>\n    <li>- Added Some App</li>\n    <li>- Improve Stability</li>\n    <li>- Added Some Lib</li>\n  </ul>\n</div>",
+    "changelog": "<div>  <ul style='margin-top: 0;'>\n    <li>- Do Not Download</li>\n   </div>",
     "md5": "28c335d07ba005e34d47dea49e8f3f3c",
     "title": "SkyUI X7.0.1",
     "isTestBuild": false,
@@ -11,6 +11,7 @@
     "linkType": "uploadnow"
   }
 ]
+
 
 
 
