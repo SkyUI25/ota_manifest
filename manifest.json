@@ -2,11 +2,11 @@
     "response": [
         {
             "device": "a51",
-            "md5": "xxxxxxxx",
+            "md5": "6ac130c8d9b291451afd6bbd07fa8f2f",
             "patch": 20261001,
-            "size": 1500000000,
+            "size": 451000000,
             "bl": "M215FXXU...",
-            "url": "https://...",
+            "url": "https://gofile.io/d/DEKR1eq7",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
             "version": "900002"
         }
