@@ -1,7 +1,7 @@
 {
     "response": [
         {
-            "device": "a51",
+            "device": "a26x",
             "md5": "xxxxxxxx",
             "patch": 20261001,
             "size": 1500000000,
