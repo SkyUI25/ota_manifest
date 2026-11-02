@@ -7,7 +7,7 @@
             "size": 1500000000,
             "bl": "M215FXXU...",
             "url": "https://...",
-            "changelog": "https://...",
+            "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
             "version": "900002"
         }
     ]
