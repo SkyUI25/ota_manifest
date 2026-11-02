@@ -1,28 +1,14 @@
 {
-  "response": [
-    {
-      "device": "a54x",
-      "builddate": 20260528,
-      "md5": "c9230270f98419433c0be38c46687c85",
-      "patch": 20260405,
-      "size": 7121828064,
-      "bl": "XXUFEYI4",
-      "url": "https://pixeldrain.com/api/file/[id]?download",
-      "changelog": "https://raw.githubusercontent.com/MrDemonc/PROJECT-LichUI/refs/heads/Updates/changelog.txt",
-      "version": "5.2.9"
-    }
-  ]
+    "response": [
+        {
+            "device": "m21ins",
+            "md5": "xxxxxxxx",
+            "patch": 20261001,
+            "size": 1500000000,
+            "bl": "M215FXXU...",
+            "url": "https://...",
+            "changelog": "https://...",
+            "version": "900002"
+        }
+    ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
