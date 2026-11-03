@@ -1,6 +1,19 @@
 {
     "response": [
         {
+            "device": "m21",
+            "md5": "f42feeea490b849d43d99c51156136fb",
+            "patch": 20261001,
+            "size": 451000000,
+            "url": "https://pixeldrain.com/api/file/J3NK4dD2?download",
+            "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
+            "version": "900002"
+        }
+    ]
+}
+{
+    "response": [
+        {
             "device": "a51",
             "md5": "f42feeea490b849d43d99c51156136fb",
             "patch": 20261001,
@@ -11,3 +24,30 @@
         }
     ]
 }
+{
+    "response": [
+        {
+            "device": "m31s",
+            "md5": "f42feeea490b849d43d99c51156136fb",
+            "patch": 20261001,
+            "size": 451000000,
+            "url": "https://pixeldrain.com/api/file/J3NK4dD2?download",
+            "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
+            "version": "900002"
+        }
+    ]
+}
+{
+    "response": [
+        {
+            "device": "f41",
+            "md5": "f42feeea490b849d43d99c51156136fb",
+            "patch": 20261001,
+            "size": 451000000,
+            "url": "https://pixeldrain.com/api/file/J3NK4dD2?download",
+            "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
+            "version": "900002"
+        }
+    ]
+}
+
