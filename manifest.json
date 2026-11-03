@@ -6,7 +6,7 @@
             "type": "full",
             "md5": "f42feeea490b849d43d99c51156136fb",
             "size": 451000000,
-            "url": "https://pixeldrain.com/api/file/J3NK4dD2?download",
+            "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
             "version": "900002"
         },
@@ -15,7 +15,7 @@
             "type": "partial",
             "md5": "f42feeea490b849d43d99c51156136fb",
             "size": 451000000,
-            "url": "https://pixeldrain.com/api/file/J3NK4dD2?download",
+            "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
             "version": "900005"
         },
@@ -24,7 +24,7 @@
             "type": "full",
             "md5": "f42feeea490b849d43d99c51156136fb",
             "size": 451000000,
-            "url": "https://pixeldrain.com/api/file/J3NK4dD2?download",
+            "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
             "version": "900003"
         }
