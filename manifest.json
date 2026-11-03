@@ -8,7 +8,7 @@
             "size": 451000000,
             "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
-            "version": "900002"
+            "version": "090002"
         },
         {
             "device": "a51",
@@ -17,7 +17,7 @@
             "size": 451000000,
             "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
-            "version": "900005"
+            "version": "090005"
         },
         {
             "device": "m31 a51",
@@ -26,7 +26,7 @@
             "size": 451000000,
             "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
-            "version": "900003"
+            "version": "090003"
         }
     ]
 }
