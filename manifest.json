@@ -2,7 +2,7 @@
 {
     "response": [
         {
-            "device": "m21",
+            "device": "m211",
             "type": "full",
             "md5": "f42feeea490b849d43d99c51156136fb",
             "size": 451000000,
@@ -11,7 +11,7 @@
             "version": "090002"
         },
         {
-            "device": "a51",
+            "device": "a511",
             "type": "partial",
             "md5": "f42feeea490b849d43d99c51156136fb",
             "size": 451000000,
@@ -20,7 +20,7 @@
             "version": "090005"
         },
         {
-            "device": "m31 a51",
+            "device": "m311 a511",
             "type": "full",
             "md5": "f42feeea490b849d43d99c51156136fb",
             "size": 451000000,
