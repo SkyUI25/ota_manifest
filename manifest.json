@@ -8,7 +8,7 @@
             "size": 451000000,
             "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
-            "version": "090002"
+            "version": "090001"
         },
         {
             "device": "a51",
@@ -26,7 +26,7 @@
             "size": 451000000,
             "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
-            "version": "090003"
+            "version": "090002"
         }
     ]
 }
