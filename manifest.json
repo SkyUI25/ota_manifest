@@ -2,13 +2,13 @@
 {
     "response": [
         {
-            "device": "",
+            "device": "m21 m31 m31s f41",
             "type": "partial",
             "md5": "f42feeea490b849d43d99c51156136fb",
             "size": 451000000,
             "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
-            "version": "090001"
+            "version": "090000"
         },
         {
             "device": "a51",
@@ -20,13 +20,13 @@
             "version": "090005"
         },
         {
-            "device": "",
+            "device": "m21 m31 m31s f41",
             "type": "partial",
             "md5": "f42feeea490b849d43d99c51156136fb",
             "size": 451000000,
             "url": "https://github.com/SkyUI25/ota_manifest/releases/download/Test/test.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog.txt",
-            "version": "090002"
+            "version": "090000"
         }
     ]
 }
