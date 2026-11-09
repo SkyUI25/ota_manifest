@@ -8,7 +8,7 @@
             "size": 19293798,
             "url": "https://github.com/SkyUI25/ota_manifest/releases/download/SkyUIPatch/SkyUI-Patch_9.0.1.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog901.txt",
-            "version": "090000"
+            "version": "090001"
         },
         {
             "device": "a51",
