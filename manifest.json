@@ -4,7 +4,7 @@
         {
             "device": "m21 m31 m31s f41",
             "type": "partial",
-            "md5": "da884ae4749cf00ac09d531702557444",
+            "md5": "68967a5eedf92d2af9412309422443b4",
             "size": 19293798,
             "url": "https://github.com/SkyUI25/ota_manifest/releases/download/SkyUIPatch/SkyUI-Patch_9.0.1.zip",
             "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog901.txt",
