@@ -1,0 +1,7 @@
+SkyUI Patch 9.0.2
+  - Adding Mic Mode In Quick Panel
+  - Adding Screen Recorder
+  - Fix AOD Not Display
+  - Fix Galery Editor Crash
+  - Fix Lock Screen Delay 
+  - Deleting Samsung Messages
