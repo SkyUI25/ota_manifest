@@ -11,6 +11,15 @@
             "version": "090001"
         },
         {
+            "device": "m21 m31 m31s f41",
+            "type": "partial",
+            "md5": "91adcc2fcdb94a1e6e9a3e459cf527c5",
+            "size": 590348288,
+            "url": "https://github.com/SkyUI25/ota_manifest/releases/download/SkyUIPatch902/SkyUI-Patch_9.0.2.zip",
+            "changelog": "https://raw.githubusercontent.com/SkyUI25/ota_manifest/refs/heads/master/changelog902.txt",
+            "version": "090002"
+        },
+        {
             "device": "a51",
             "type": "partial",
             "md5": "f42feeea490b849d43d99c51156136fb",
