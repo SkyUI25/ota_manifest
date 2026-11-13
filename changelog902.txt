@@ -5,3 +5,4 @@ SkyUI Patch 9.0.2
   - Fix Galery Editor Crash
   - Fix Lock Screen Delay 
   - Deleting Samsung Messages
+  - Deleting Samsung Warranty and Care
